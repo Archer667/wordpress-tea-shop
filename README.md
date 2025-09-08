@@ -19,14 +19,6 @@
   <li>Pages: Home, Shop, About, Contact</li>
 </ul>
 
-<h2>Tech Stack</h2>
-<ul>
-  <li>WordPress</li>
-  <li>WooCommerce</li>
-  <li>Custom theme (in <code>wp-content/themes/&lt;your-theme&gt;</code>)</li>
-  <li>Optional custom plugins (in <code>wp-content/plugins/</code>)</li>
-</ul>
-
 <h2>Local Setup (XAMPP)</h2>
 <ol>
   <li>Start <strong>Apache</strong> and <strong>MySQL</strong> in XAMPP.</li>
