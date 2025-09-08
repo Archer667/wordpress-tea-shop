@@ -36,17 +36,6 @@ define('DB_PASSWORD', '');
 define('DB_HOST', 'localhost');
 </pre>
 
-<h2>Repository Structure</h2>
-<pre>
-wordpress-tea-shop/
-├─ wp-admin/
-├─ wp-content/
-│  ├─ plugins/
-│  └─ themes/
-│     └─ &lt;your-theme&gt;/
-└─ wp-includes/
-</pre>
-
 <h2>Screenshots</h2>
 <ul>
   <img width="1919" height="988" alt="Screenshot 2025-09-08 092758" src="https://github.com/user-attachments/assets/8b47d025-86e5-4451-b74e-ecf5ea5e5b58" />
