@@ -49,8 +49,11 @@ wordpress-tea-shop/
 
 <h2>Screenshots</h2>
 <ul>
-  <li><img src="screenshot-home.png" alt="Home page" width="600"></li>
-  <li><img src="screenshot-product.png" alt="Product page" width="600"></li>
+  <img width="1919" height="988" alt="Screenshot 2025-09-08 092758" src="https://github.com/user-attachments/assets/8b47d025-86e5-4451-b74e-ecf5ea5e5b58" />
+  <img width="1919" height="990" alt="Screenshot 2025-09-08 092724" src="https://github.com/user-attachments/assets/48e27cda-8425-4cab-b5a9-52339df708c5" />
+  <img width="1911" height="985" alt="Screenshot 2025-09-08 092707" src="https://github.com/user-attachments/assets/b65094d1-5977-43fc-b8a4-a64bbf10df9b" />
+  <img width="1911" height="990" alt="Screenshot 2025-09-08 092612" src="https://github.com/user-attachments/assets/e6885dc6-c6e0-4dd5-a482-d98275abc936" />
+  <img width="1919" height="992" alt="Screenshot 2025-09-08 092508" src="https://github.com/user-attachments/assets/c6f45377-e009-46de-95a4-6723d2739d17" />
 </ul>
 <p>(Place your images at repo root or update paths.)</p>
 
