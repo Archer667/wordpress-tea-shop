@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>WordPress Tea Shop – README</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-</head>
 <body>
-
 <h1>WordPress Tea Shop</h1>
 <p>A lightweight e-commerce website for selling tea bags with different features (flavor, caffeine level, packaging, and more).</p>
 
